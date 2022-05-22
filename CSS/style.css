@@ -1,0 +1,25 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar {
+    background-color: #E5B5FA;
+}
+
+.quemsomos {
+    background-color: aquamarine;
+}
+
+.margin {
+    padding-top: 50px;  
+    padding-bottom: 50px;
+}
+
+.projeto{
+    background-color: bisque;
+}
+
+.bg-footer {
+    background-color: black ;
+    color: white
+
+}
